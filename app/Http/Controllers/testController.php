@@ -60,4 +60,11 @@ class testController extends Controller
             'title' => 'Comment'
         ]);
     }
+
+    public function login()
+    {
+        return view('login', [
+            'title' => 'login'
+        ]);
+    }
 }

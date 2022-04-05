@@ -22,8 +22,7 @@ class data extends Model
     private static $hobi = "Ngegame, Desain (Logo, Poster, UI, dll), Nonton Anime";
     private static $belajar = "Desain [Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro], UI & UX
     [Miro, Figma, Maze], Programming [Java, PHP, HTML]";
-    private static $quote = "Meskipun dunia penuh dengan hal-hal yang lebih baik tidak kita ketahui, apa
-    kita hanya bisa memalingkan wajah dan melarikan diri? Melarikan diri tidak akan menyelesaikan apapun.";
+    private static $quote = "Meskipun dunia penuh dengan hal-hal yang lebih baik tidak kita ketahui, apa kita hanya bisa memalingkan wajah dan melarikan diri? Melarikan diri tidak akan menyelesaikan apapun.";
     private static $quote_author = "Little Buster Refrain";
     private static $link_ig= "https://www.instagram.com/alifvsr/";
     private static $link_git = "https://github.com/fantasiavsr";
